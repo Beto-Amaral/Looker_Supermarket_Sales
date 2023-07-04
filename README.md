@@ -28,4 +28,4 @@ Acknowledgements
 Thanks to all who take time and energy to perform Kernels with this dataset and reviewers.
 
 Purpose 
-Is to provide a comprehensive overview of the supermarket's performance and market trends. 
+is to provide a comprehensive overview of the supermarket's performance and market trends. 
